@@ -1,0 +1,16 @@
+# Compiled Business Central app packages
+*.app
+
+# Microsoft AL dependency packages (large binaries, not your code)
+.alpackages/
+
+# VS Code / AL tooling generated files
+.snapshots/
+.vs/
+*.bak
+
+# AL extension cache
+.vscode/.alcache/
+
+# Stray duplicate clone
+/KVS Utilities/
